@@ -1,0 +1,57 @@
+## Visual Studio / C++ .gitignore
+
+# Visual Studio cache and user settings
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.user
+
+# Build output
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww]in32/
+[Aa][Rr][Mm]64/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Compiler / linker intermediates
+*.obj
+*.o
+*.pch
+*.pdb
+*.ipdb
+*.iobj
+*.ilk
+*.idb
+*.tlog
+*.lastbuildstate
+*.recipe
+*.exp
+*.lib
+*.exe
+*.dll
+*.log
+*.tmp
+*.cache
+
+# IntelliSense databases
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+ipch/
+
+# Rendered frames / videos from --shot and --pipe
+*.ppm
+*.mp4
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store

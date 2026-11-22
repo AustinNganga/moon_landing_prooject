@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="moon_landing.vcxproj" Id="d25460c7-1828-403a-aa44-54350d18768c" />
+</Solution>
